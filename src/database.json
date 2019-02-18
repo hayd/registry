@@ -127,6 +127,10 @@
     "url": "https://raw.githubusercontent.com/bokuweb/deno-pretty-assert/${b}/",
     "repo": "https://github.com/bokuweb/deno-pretty-assert"
   },
+  "promises": {
+    "url": "https://raw.githubusercontent.com/denoland/deno_std/${b}/promises/",
+    "https://github.com/denoland/deno_std/tree/master/promises"
+  },
   "std": {
     "url": "https://raw.githubusercontent.com/denoland/deno_std/${b}/",
     "repo": "https://github.com/denoland/deno_std"
